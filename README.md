@@ -1,16 +1,40 @@
-## Hi there 👋
+# <Your Name>
 
-<!--
-**Hamspiced/hamspiced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Find me on my Discord server [here](https://discord.gg/2eZMhvsT).
 
-Here are some ideas to get you started:
+Find me on YouTube [here](https://youtube.com/@midwestgadgets?si=a7oirxm1EyapLHSj).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See the things i make [here](www.midwestgadgets.com)
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Hamspiced&show_icons=true&theme=aura&include_all_commits=true"/>
+
+
+## My Top Repositories
+Sorted by stars, forks, clones, and page views.
+
+Stats provided by:
+[GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
+
+### Most Starred
+<!-- STAR_LIST -->
+
+### Most Forked
+<!-- FORK_LIST -->
+
+### Most Cloned (14 day stats)
+<!-- CLONE_LIST -->
+
+### Most Viewed (14 day stats)
+<!-- PAGE_VIEW_LIST -->
+
+## Contributors
+<!-- CONTRIBUTOR_LIST -->
+
+## Top Referral Paths (14 day stats)
+<!-- REFERRAL_PATH_LIST -->
+
+## Top Referral Sources (14 day stats)
+<!-- REFERRAL_SOURCE_LIST -->
+
+## Timestamp
+<!-- TIMESTAMP -->
