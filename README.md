@@ -1,6 +1,6 @@
 # <Your Name>
 
-Find me on my Discord server [here](https://discord.gg/2eZMhvsT).
+Find me on the TPP Discord server [here](https://discord.gg/2eZMhvsT).
 
 Find me on YouTube [here](https://youtube.com/@midwestgadgets?si=a7oirxm1EyapLHSj).
 
@@ -16,25 +16,66 @@ Stats provided by:
 [GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
 
 ### Most Starred
-<!-- STAR_LIST -->
+1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - ★ 42
+1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - ★ 25
+1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - ★ 20
+1. [8x32_WOPR_Display_With_IG_and_YT_Follower_Counter](https://github.com/hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter) - ★ 3
+1. [ActiveProjects](https://github.com/hamspiced/ActiveProjects) - ★ 3
+1. [Badger2040Scripts](https://github.com/hamspiced/Badger2040Scripts) - ★ 3
+1. [nano-VNA-Resonance-Antenna](https://github.com/hamspiced/nano-VNA-Resonance-Antenna) - ★ 2
+1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - ★ 2
+1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - ★ 2
+1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - ★ 1
+1. [hamspiced](https://github.com/hamspiced/hamspiced) - ★ 0
 
 ### Most Forked
-<!-- FORK_LIST -->
+1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - 🍴 8
+1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - 🍴 3
+1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - 🍴 1
+1. [8x32_WOPR_Display_With_IG_and_YT_Follower_Counter](https://github.com/hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter) - 🍴 0
+1. [ActiveProjects](https://github.com/hamspiced/ActiveProjects) - 🍴 0
+1. [Badger2040Scripts](https://github.com/hamspiced/Badger2040Scripts) - 🍴 0
+1. [nano-VNA-Resonance-Antenna](https://github.com/hamspiced/nano-VNA-Resonance-Antenna) - 🍴 0
+1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - 🍴 0
+1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - 🍴 0
+1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 🍴 0
+1. [hamspiced](https://github.com/hamspiced/hamspiced) - 🍴 0
 
 ### Most Cloned (14 day stats)
-<!-- CLONE_LIST -->
+1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - 🔄 0
+1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - 🔄 0
+1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - 🔄 0
+1. [8x32_WOPR_Display_With_IG_and_YT_Follower_Counter](https://github.com/hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter) - 🔄 0
+1. [ActiveProjects](https://github.com/hamspiced/ActiveProjects) - 🔄 0
+1. [Badger2040Scripts](https://github.com/hamspiced/Badger2040Scripts) - 🔄 0
+1. [nano-VNA-Resonance-Antenna](https://github.com/hamspiced/nano-VNA-Resonance-Antenna) - 🔄 0
+1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - 🔄 0
+1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - 🔄 0
+1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 🔄 0
+1. [hamspiced](https://github.com/hamspiced/hamspiced) - 🔄 0
 
 ### Most Viewed (14 day stats)
-<!-- PAGE_VIEW_LIST -->
+1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - 👁️‍🗨️ 0
+1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - 👁️‍🗨️ 0
+1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - 👁️‍🗨️ 0
+1. [8x32_WOPR_Display_With_IG_and_YT_Follower_Counter](https://github.com/hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter) - 👁️‍🗨️ 0
+1. [ActiveProjects](https://github.com/hamspiced/ActiveProjects) - 👁️‍🗨️ 0
+1. [Badger2040Scripts](https://github.com/hamspiced/Badger2040Scripts) - 👁️‍🗨️ 0
+1. [nano-VNA-Resonance-Antenna](https://github.com/hamspiced/nano-VNA-Resonance-Antenna) - 👁️‍🗨️ 0
+1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - 👁️‍🗨️ 0
+1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - 👁️‍🗨️ 0
+1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 👁️‍🗨️ 0
+1. [hamspiced](https://github.com/hamspiced/hamspiced) - 👁️‍🗨️ 0
 
 ## Contributors
-<!-- CONTRIBUTOR_LIST -->
+1. [Hamspiced](https://github.com/Hamspiced) - 💼 160
+1. [thatSFguy](https://github.com/thatSFguy) - 💼 3
 
 ## Top Referral Paths (14 day stats)
-<!-- REFERRAL_PATH_LIST -->
+
 
 ## Top Referral Sources (14 day stats)
-<!-- REFERRAL_SOURCE_LIST -->
+
 
 ## Timestamp
-<!-- TIMESTAMP -->
+2026-02-19 21:30:08
