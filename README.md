@@ -4,7 +4,7 @@ Find me on the TPP Discord server [here](https://discord.gg/2eZMhvsT).
 
 Find me on YouTube [here](https://youtube.com/@midwestgadgets?si=a7oirxm1EyapLHSj).
 
-See the things i make [here](www.midwestgadgets.com)
+See the things i make [here](https://www.midwestgadgets.com)
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Hamspiced&show_icons=true&theme=aura&include_all_commits=true"/>
 
