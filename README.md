@@ -4,7 +4,7 @@ Find me on the TPP Discord server [here](https://discord.gg/2eZMhvsT).
 
 Find me on YouTube [here](https://youtube.com/@midwestgadgets?si=a7oirxm1EyapLHSj).
 
-See the things i make [here](https://www.midwestgadgets.com)
+See the things i make [here](www.midwestgadgets.com)
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Hamspiced&show_icons=true&theme=aura&include_all_commits=true"/>
 
@@ -72,7 +72,7 @@ Stats provided by:
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 👁️‍🗨️ 0
 
 ## Contributors
-1. [Hamspiced](https://github.com/Hamspiced) - 💼 177
+1. [Hamspiced](https://github.com/Hamspiced) - 💼 180
 1. [thatSFguy](https://github.com/thatSFguy) - 💼 3
 
 ## Top Referral Paths (14 day stats)
@@ -82,4 +82,4 @@ Stats provided by:
 
 
 ## Timestamp
-2026-03-26 16:38:53
+2026-03-26 16:54:15
