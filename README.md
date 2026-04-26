@@ -16,7 +16,7 @@ Stats provided by:
 [GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
 
 ### Most Starred
-1. [piglet](https://github.com/hamspiced/piglet) - ★ 95
+1. [piglet](https://github.com/hamspiced/piglet) - ★ 97
 1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - ★ 46
 1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - ★ 34
 1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - ★ 22
@@ -31,7 +31,7 @@ Stats provided by:
 
 ### Most Forked
 1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - 🍴 8
-1. [piglet](https://github.com/hamspiced/piglet) - 🍴 5
+1. [piglet](https://github.com/hamspiced/piglet) - 🍴 6
 1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - 🍴 3
 1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - 🍴 2
 1. [hamspiced](https://github.com/hamspiced/hamspiced) - 🍴 0
@@ -72,7 +72,7 @@ Stats provided by:
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 👁️‍🗨️ 0
 
 ## Contributors
-1. [Hamspiced](https://github.com/Hamspiced) - 💼 212
+1. [Hamspiced](https://github.com/Hamspiced) - 💼 213
 1. [thatSFguy](https://github.com/thatSFguy) - 💼 3
 
 ## Top Referral Paths (14 day stats)
@@ -82,4 +82,4 @@ Stats provided by:
 
 
 ## Timestamp
-2026-04-25 17:02:43
+2026-04-26 17:12:40
