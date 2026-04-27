@@ -16,7 +16,7 @@ Stats provided by:
 [GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
 
 ### Most Starred
-1. [piglet](https://github.com/hamspiced/piglet) - ★ 97
+1. [piglet](https://github.com/hamspiced/piglet) - ★ 99
 1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - ★ 46
 1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - ★ 34
 1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - ★ 22
@@ -25,8 +25,8 @@ Stats provided by:
 1. [ActiveProjects](https://github.com/hamspiced/ActiveProjects) - ★ 5
 1. [Badger2040Scripts](https://github.com/hamspiced/Badger2040Scripts) - ★ 4
 1. [nano-VNA-Resonance-Antenna](https://github.com/hamspiced/nano-VNA-Resonance-Antenna) - ★ 4
+1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - ★ 4
 1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - ★ 4
-1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - ★ 3
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - ★ 2
 
 ### Most Forked
@@ -39,8 +39,8 @@ Stats provided by:
 1. [ActiveProjects](https://github.com/hamspiced/ActiveProjects) - 🍴 0
 1. [Badger2040Scripts](https://github.com/hamspiced/Badger2040Scripts) - 🍴 0
 1. [nano-VNA-Resonance-Antenna](https://github.com/hamspiced/nano-VNA-Resonance-Antenna) - 🍴 0
-1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - 🍴 0
 1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - 🍴 0
+1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - 🍴 0
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 🍴 0
 
 ### Most Cloned (14 day stats)
@@ -53,8 +53,8 @@ Stats provided by:
 1. [ActiveProjects](https://github.com/hamspiced/ActiveProjects) - 🔄 0
 1. [Badger2040Scripts](https://github.com/hamspiced/Badger2040Scripts) - 🔄 0
 1. [nano-VNA-Resonance-Antenna](https://github.com/hamspiced/nano-VNA-Resonance-Antenna) - 🔄 0
-1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - 🔄 0
 1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - 🔄 0
+1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - 🔄 0
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 🔄 0
 
 ### Most Viewed (14 day stats)
@@ -67,12 +67,12 @@ Stats provided by:
 1. [ActiveProjects](https://github.com/hamspiced/ActiveProjects) - 👁️‍🗨️ 0
 1. [Badger2040Scripts](https://github.com/hamspiced/Badger2040Scripts) - 👁️‍🗨️ 0
 1. [nano-VNA-Resonance-Antenna](https://github.com/hamspiced/nano-VNA-Resonance-Antenna) - 👁️‍🗨️ 0
-1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - 👁️‍🗨️ 0
 1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - 👁️‍🗨️ 0
+1. [What-Is-This-Thing-I-Found](https://github.com/hamspiced/What-Is-This-Thing-I-Found) - 👁️‍🗨️ 0
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 👁️‍🗨️ 0
 
 ## Contributors
-1. [Hamspiced](https://github.com/Hamspiced) - 💼 213
+1. [Hamspiced](https://github.com/Hamspiced) - 💼 219
 1. [thatSFguy](https://github.com/thatSFguy) - 💼 3
 
 ## Top Referral Paths (14 day stats)
@@ -82,4 +82,4 @@ Stats provided by:
 
 
 ## Timestamp
-2026-04-26 17:12:40
+2026-04-27 17:20:56
