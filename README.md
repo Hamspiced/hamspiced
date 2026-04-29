@@ -6,7 +6,7 @@ Find me on YouTube [here](https://youtube.com/@midwestgadgets?si=a7oirxm1EyapLHS
 
 See the things i make [here](www.midwestgadgets.com)
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Hamspiced&show_icons=true&theme=aura&include_all_commits=true"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Hamspiced&show_icons=true&theme=aura"/>
 
 
 ## My Top Repositories
@@ -146,4 +146,4 @@ Stats provided by:
 1. tindie.com - 🌍 2
 
 ## Timestamp
-2026-04-29 17:14:55
+2026-04-29 17:17:20
