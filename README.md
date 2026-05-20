@@ -9,6 +9,8 @@ See the things i make [here](www.midwestgadgets.com)
 <img align="right" width="400" src="https://github-readme-stats-zeta-five-66.vercel.app/api?username=Hamspiced&show_icons=true&theme=aura"/>
 
 
+<br clear="right"/>
+
 ## My Top Repositories
 Sorted by stars, forks, clones, and page views.
 
@@ -72,7 +74,7 @@ Stats provided by:
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 👁️‍🗨️ 0
 
 ## Contributors
-1. [Hamspiced](https://github.com/Hamspiced) - 💼 316
+1. [Hamspiced](https://github.com/Hamspiced) - 💼 317
 1. [thatSFguy](https://github.com/thatSFguy) - 💼 3
 1. [meilily](https://github.com/meilily) - 💼 1
 1. [PierreGode](https://github.com/PierreGode) - 💼 1
@@ -144,4 +146,4 @@ Stats provided by:
 1. reddit.com - 🌍 1
 
 ## Timestamp
-2026-05-20 15:40:11
+2026-05-20 15:41:40
