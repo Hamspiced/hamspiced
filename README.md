@@ -6,7 +6,7 @@ Find me on YouTube [here](https://youtube.com/@midwestgadgets?si=a7oirxm1EyapLHS
 
 See the things i make [here](www.midwestgadgets.com)
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Hamspiced&show_icons=true&theme=aura"/>
+<img align="right" width="400" src="https://github-readme-stats-hamspiceds-projects.vercel.app/api?username=Hamspiced&show_icons=true&theme=aura"/>
 
 
 ## My Top Repositories
@@ -72,7 +72,7 @@ Stats provided by:
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 👁️‍🗨️ 0
 
 ## Contributors
-1. [Hamspiced](https://github.com/Hamspiced) - 💼 314
+1. [Hamspiced](https://github.com/Hamspiced) - 💼 315
 1. [thatSFguy](https://github.com/thatSFguy) - 💼 3
 1. [meilily](https://github.com/meilily) - 💼 1
 1. [PierreGode](https://github.com/PierreGode) - 💼 1
@@ -144,4 +144,4 @@ Stats provided by:
 1. reddit.com - 🌍 1
 
 ## Timestamp
-2026-05-20 14:48:45
+2026-05-20 15:34:51
