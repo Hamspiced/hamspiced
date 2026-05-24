@@ -18,7 +18,7 @@ Stats provided by:
 [GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
 
 ### Most Starred
-1. [piglet](https://github.com/hamspiced/piglet) - ★ 127
+1. [piglet](https://github.com/hamspiced/piglet) - ★ 131
 1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - ★ 47
 1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - ★ 36
 1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - ★ 23
@@ -33,7 +33,7 @@ Stats provided by:
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - ★ 2
 
 ### Most Forked
-1. [piglet](https://github.com/hamspiced/piglet) - 🍴 11
+1. [piglet](https://github.com/hamspiced/piglet) - 🍴 12
 1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - 🍴 8
 1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - 🍴 3
 1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - 🍴 2
@@ -48,14 +48,14 @@ Stats provided by:
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 🍴 0
 
 ### Most Cloned (14 day stats)
-1. [piglet](https://github.com/hamspiced/piglet) - 🔄 330
-1. [hamspiced](https://github.com/hamspiced/hamspiced) - 🔄 226
-1. [8x32_WOPR_Display_With_IG_and_YT_Follower_Counter](https://github.com/hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter) - 🔄 22
-1. [SplitFlapCounter](https://github.com/hamspiced/SplitFlapCounter) - 🔄 12
+1. [piglet](https://github.com/hamspiced/piglet) - 🔄 243
+1. [hamspiced](https://github.com/hamspiced/hamspiced) - 🔄 221
+1. [8x32_WOPR_Display_With_IG_and_YT_Follower_Counter](https://github.com/hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter) - 🔄 23
+1. [SplitFlapCounter](https://github.com/hamspiced/SplitFlapCounter) - 🔄 19
 1. [nano-VNA-Resonance-Antenna](https://github.com/hamspiced/nano-VNA-Resonance-Antenna) - 🔄 8
+1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 🔄 5
 1. [ActiveProjects](https://github.com/hamspiced/ActiveProjects) - 🔄 4
 1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - 🔄 4
-1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 🔄 4
 1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - 🔄 3
 1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - 🔄 3
 1. [Badger2040Scripts](https://github.com/hamspiced/Badger2040Scripts) - 🔄 3
@@ -63,13 +63,13 @@ Stats provided by:
 1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - 🔄 2
 
 ### Most Viewed (14 day stats)
-1. [piglet](https://github.com/hamspiced/piglet) - 👁️‍🗨️ 865
-1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - 👁️‍🗨️ 55
+1. [piglet](https://github.com/hamspiced/piglet) - 👁️‍🗨️ 810
+1. [MichTastic_Node](https://github.com/hamspiced/MichTastic_Node) - 👁️‍🗨️ 49
 1. [NFC-Resonant-Frequency-Amplifier](https://github.com/hamspiced/NFC-Resonant-Frequency-Amplifier) - 👁️‍🗨️ 43
-1. [hamspiced](https://github.com/hamspiced/hamspiced) - 👁️‍🗨️ 29
-1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - 👁️‍🗨️ 15
-1. [8x32_WOPR_Display_With_IG_and_YT_Follower_Counter](https://github.com/hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter) - 👁️‍🗨️ 12
-1. [SplitFlapCounter](https://github.com/hamspiced/SplitFlapCounter) - 👁️‍🗨️ 8
+1. [hamspiced](https://github.com/hamspiced/hamspiced) - 👁️‍🗨️ 28
+1. [HID-Arduino-ESP32-AccessController](https://github.com/hamspiced/HID-Arduino-ESP32-AccessController) - 👁️‍🗨️ 14
+1. [8x32_WOPR_Display_With_IG_and_YT_Follower_Counter](https://github.com/hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter) - 👁️‍🗨️ 13
+1. [SplitFlapCounter](https://github.com/hamspiced/SplitFlapCounter) - 👁️‍🗨️ 10
 1. [nano-VNA-Resonance-Antenna](https://github.com/hamspiced/nano-VNA-Resonance-Antenna) - 👁️‍🗨️ 4
 1. [ActiveProjects](https://github.com/hamspiced/ActiveProjects) - 👁️‍🗨️ 2
 1. [Tufty2040_Scripts](https://github.com/hamspiced/Tufty2040_Scripts) - 👁️‍🗨️ 2
@@ -78,40 +78,40 @@ Stats provided by:
 1. [DiscordTOS](https://github.com/hamspiced/DiscordTOS) - 👁️‍🗨️ 0
 
 ## Contributors
-1. [Hamspiced](https://github.com/Hamspiced) - 💼 322
+1. [Hamspiced](https://github.com/Hamspiced) - 💼 323
 1. [thatSFguy](https://github.com/thatSFguy) - 💼 3
 1. [meilily](https://github.com/meilily) - 💼 1
 1. [PierreGode](https://github.com/PierreGode) - 💼 1
 1. [dagnazty](https://github.com/dagnazty) - 💼 1
 
 ## Top Referral Paths (14 day stats)
-1. /hamspiced/piglet - 🌍 193
-1. /Hamspiced/piglet - 🌍 162
-1. /Hamspiced/piglet/blob/main/Images/BuiltPiglet.jpg - 🌍 32
-1. /Hamspiced/piglet/blob/main/Images/BackBuiltPiglet.jpg - 🌍 28
+1. /hamspiced/piglet - 🌍 196
+1. /Hamspiced/piglet - 🌍 139
+1. /Hamspiced/piglet/blob/main/Images/BuiltPiglet.jpg - 🌍 33
+1. /Hamspiced/piglet/blob/main/Images/BackBuiltPiglet.jpg - 🌍 31
 1. /Hamspiced/piglet/blob/main/Images/Module_Arrangement.png - 🌍 27
-1. /Hamspiced/piglet/tree/main/PCB Files - 🌍 26
-1. /Hamspiced/piglet/tree/main/TDongleC5_Piglet - 🌍 26
-1. /Hamspiced/piglet/tree/main/Arduino Files/Piglet - 🌍 24
+1. /Hamspiced/piglet/tree/main/TDongleC5_Piglet - 🌍 24
 1. /Hamspiced/piglet/tree/main - 🌍 23
+1. /Hamspiced/piglet/tree/main/PCB Files - 🌍 22
+1. /Hamspiced/piglet/tree/main/Arduino Files/Piglet - 🌍 21
 1. /Hamspiced/piglet/releases/tag/v2.51 - 🌍 19
 1. /Hamspiced/NFC-Resonant-Frequency-Amplifier - 🌍 19
-1. /Hamspiced/MichTastic_Node - 🌍 15
-1. /hamspiced/hamspiced - 🌍 13
+1. /Hamspiced/MichTastic_Node - 🌍 14
+1. /hamspiced/hamspiced - 🌍 12
 1. /hamspiced/NFC-Resonant-Frequency-Amplifier - 🌍 9
 1. /Hamspiced/hamspiced - 🌍 9
-1. /Hamspiced/MichTastic_Node/tree/main/Images - 🌍 7
-1. /hamspiced/MichTastic_Node - 🌍 6
 1. /Hamspiced/MichTastic_Node/blob/main/Images/Pinout.png - 🌍 6
+1. /Hamspiced/MichTastic_Node/tree/main/Images - 🌍 6
 1. /Hamspiced/HID-Arduino-ESP32-AccessController - 🌍 6
+1. /hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter - 🌍 6
 1. /Hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter - 🌍 6
-1. /Hamspiced/MichTastic_Node/blob/main/Images/Back.png - 🌍 5
+1. /Hamspiced/SplitFlapCounter - 🌍 6
+1. /hamspiced/MichTastic_Node - 🌍 5
 1. /Hamspiced/MichTastic_Node/tree/main - 🌍 5
 1. /Hamspiced/hamspiced/blob/main/www.midwestgadgets.com - 🌍 5
-1. /hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter - 🌍 5
-1. /Hamspiced/MichTastic_Node/blob/main/Images/Front.png - 🌍 4
-1. /Hamspiced/SplitFlapCounter - 🌍 4
+1. /Hamspiced/MichTastic_Node/blob/main/Images/Back.png - 🌍 4
 1. /Hamspiced/NFC-Resonant-Frequency-Amplifier/tree/main/Gerber Files - 🌍 3
+1. /Hamspiced/MichTastic_Node/blob/main/Images/Front.png - 🌍 3
 1. /Hamspiced/MichTastic_Node/commit/593694d0a6b68f8f6104537c89faa6c64829dfd1 - 🌍 3
 1. /hamspiced/HID-Arduino-ESP32-AccessController - 🌍 3
 1. /Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Gerber Files/V2-1SRepeater.zip - 🌍 2
@@ -130,7 +130,6 @@ Stats provided by:
 1. /Hamspiced/HID-Arduino-ESP32-AccessController/blob/main/ESP32_Code/data/cards.txt - 🌍 1
 1. /Hamspiced/HID-Arduino-ESP32-AccessController/blob/main/ESP32_Code/data/index.html - 🌍 1
 1. /Hamspiced/HID-Arduino-ESP32-AccessController/blob/main/Images/R15 Door Simulator2.jpeg - 🌍 1
-1. /Hamspiced/HID-Arduino-ESP32-AccessController/tree/main - 🌍 1
 1. /Hamspiced/hamspiced/blob/main/README.md - 🌍 1
 1. /Hamspiced/hamspiced/tree/main - 🌍 1
 1. /Hamspiced/8x32_WOPR_Display_With_IG_and_YT_Follower_Counter/releases/edit/v2.0 - 🌍 1
@@ -147,17 +146,18 @@ Stats provided by:
 1. /Hamspiced/Tufty2040_Scripts/blob/main/glitch_badge.py - 🌍 1
 
 ## Top Referral Sources (14 day stats)
-1. github.com - 🌍 468
-1. Google - 🌍 127
-1. youtube.com - 🌍 86
-1. DuckDuckGo - 🌍 24
-1. Bing - 🌍 23
-1. midwestgadgets.org - 🌍 5
+1. github.com - 🌍 436
+1. Google - 🌍 124
+1. youtube.com - 🌍 74
+1. DuckDuckGo - 🌍 23
+1. Bing - 🌍 14
+1. midwestgadgets.org - 🌍 11
 1. hackster.io - 🌍 3
+1. seeedstudio.com - 🌍 3
 1. pcbway.com - 🌍 3
 1. m.youtube.com - 🌍 2
-1. qwant.com - 🌍 1
+1. qwant.com - 🌍 2
 1. reddit.com - 🌍 1
 
 ## Timestamp
-2026-05-23 18:10:55
+2026-05-24 18:21:00
