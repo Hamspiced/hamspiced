@@ -1,6 +1,6 @@
 # <Your Name>
 
-Find me on the TPP Discord server [here](https://discord.gg/2eZMhvsT).
+Find me on My Discord server [here](https://discord.gg/cWW5rajJph).
 
 Find me on YouTube [here](https://youtube.com/@midwestgadgets?si=a7oirxm1EyapLHSj).
 
